@@ -62,3 +62,19 @@ Wow, that is astonishing. And on average Medicare only paid ~$23,424.73USD to th
    So, we have our hypothesis, but one thing is still bothering me; the income questions. People in Long Island, on average, make more money than those living in NYC, so it should follow that they would pay more for medical treatment, not less. Digging a little deeper in to 871 tells us that adults over the age of 65 are 13 times more likely to be hospitalized with 871 (Sepsis.org, 2021). Ok, now we’re getting somewhere. It turns that according to data collected by Center for an Urban Future, Long Island had a little over 480,000 residents over the age of 65 in 2017 (Center for an Urban Future, 2019) In NYC, that number was over 1 million (NYC Comptroller’s Office, 2017). That’s a pretty big difference, and with this we come to our second hypothesis. Because the over 65 population in NYC is much higher, they see more 871 cases than a hospital in Long Island would, and in turn, the average covered charges for 871 will be higher in NYC than in Long Island because of this. In order to test these hypotheses, we’ll need more detailed information on 871 treatments in NY, but this analysis is a good start. 
 
    Thanks for reading this all the way through. I actually only have a general understanding of the economics surrounding the health care field, so I learned a lot from this analysis. I definitely want to test these hypotheses out in the future. I wasn’t able to develop any meaningful insights from this data, but the analysis definitely did produce fruitful avenues for further research on the topic of CMS reimbursement and the hospital business model. One last thing, because I was really interested, the lowest average covered charge in NY was $8,886.46 USD and the hospital was Wyoming County Community Hospital, located in North-western New York. Interestingly enough, they ended up making money from 871 treatment. The average Medicare payment for 871 in this hospital was $13,181.23 USD. I guess the moral of this story is that if you’re going to open a hospital make sure it’s small and remote or else, you’ll never make any money. 
+   
+Resources
+
+Aging with Dignity: A Blueprint for Serving NYC’s Growing Senior Population. (2017, March). Retrieved May 04, 2021, from https://comptroller.nyc.gov/reports/aging-with-dignity-a-blueprint-for-serving-nycs-growing-senior-population/
+
+Census Bureau Quick Facts; New York, New York
+
+Census Bureau Quick Facts; Long Island, New York
+
+Kulick, D., Vaghela, S., &amp; Bina, E. (2020, July 20). Sepsis poses A COST-CONTAINMENT challenge in the face of the COVID-19 pandemic. Retrieved May 04, 2021, from https://www.hfma.org/topics/financial-sustainability/article/sepsis-poses-a-cost-containment-challenge-in-the-face-of-the-cov.html
+
+Marc, D. T., &amp; Sandefer, R. H. (2016). Data analytics in healthcare research: Tools and strategies. In Data analytics in healthcare research: Tools and strategies (pp. 85-102). Chicago, IL: AHIMA Press.
+
+New York's older adult population is booming statewide. (2019, February). Retrieved May 04, 2021, from https://nycfuture.org/research/new-yorks-older-adult-population-is-booming-statewide
+
+What's the difference between sepsis and septicaemia? (2019, March). Retrieved May 04, 2021, from https://www.meningitis.org/blogs/difference-sepsis-septicaemia
