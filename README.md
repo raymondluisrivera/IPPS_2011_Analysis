@@ -63,7 +63,7 @@ Wow, that is astonishing. And on average Medicare only paid ~$23,424.73USD to th
 
    Thanks for reading this all the way through. I actually only have a general understanding of the economics surrounding the health care field, so I learned a lot from this analysis. I definitely want to test these hypotheses out in the future. I wasn’t able to develop any meaningful insights from this data, but the analysis definitely did produce fruitful avenues for further research on the topic of CMS reimbursement and the hospital business model. One last thing, because I was really interested, the lowest average covered charge in NY was $8,886.46 USD and the hospital was Wyoming County Community Hospital, located in North-western New York. Interestingly enough, they ended up making money from 871 treatment. The average Medicare payment for 871 in this hospital was $13,181.23 USD. I guess the moral of this story is that if you’re going to open a hospital make sure it’s small and remote or else, you’ll never make any money. 
    
-Resources
+Reference
 
 Aging with Dignity: A Blueprint for Serving NYC’s Growing Senior Population. (2017, March). Retrieved May 04, 2021, from https://comptroller.nyc.gov/reports/aging-with-dignity-a-blueprint-for-serving-nycs-growing-senior-population/
 
