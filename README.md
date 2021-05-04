@@ -1,8 +1,9 @@
 # IPPS_2011_Analysis
 An analysis on Medicare Hospital Inpatient Prospective Payment System (IPPS) data for 2011
+   
    Welcome to the 2011 Medicare Hospital Inpatient Prospective Payment System (IPPS) analysist. This analysis will take information from IPPS 2011 data file and try to acquire some insights into how hospitals function under the Medicare System.
    
-	This data set contains inpatient discharge information on all 50 states in 2011, totaling 160,847 rows of data. Although we can gather some useful information about inpatient trends in the country and payments related to services offered, I want to focus this analysis on one state. So, in the spirit of state-pride, this analysis will focus solely on the data acquired from my home state of New York.
+   This data set contains inpatient discharge information on all 50 states in 2011, totaling 160,847 rows of data. Although we can gather some useful information about inpatient trends in the country and payments related to services offered, I want to focus this analysis on one state. So, in the spirit of state-pride, this analysis will focus solely on the data acquired from my home state of New York.
 	So that anyone reading this can fully understand what exactly is going on, we have a few terms that need to be defined before we get into the nitty-gritty of the data. These terms are:
 	
 •	Diagnosis-Related-Group (DRG) - The DRG is a system of codes developed by the Center for Medicare and Medicaid Services (CMS) to assist hospitals in documenting the services they provide.  This is how CMS determines how much money they will pay to a hospital for a particular service
