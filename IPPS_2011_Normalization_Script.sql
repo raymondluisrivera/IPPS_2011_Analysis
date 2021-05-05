@@ -16,7 +16,7 @@ CREATE TABLE ipps_2011 (
 );
 -- load data using Local Infile method */
 SET GLOBAL local_infile = 1;
-LOAD DATA LOCAL INFILE 'C:\\Users\\raymo\\OneDrive\\Desktop\\project 1\\ipps_2011_complete.csv'
+LOAD DATA LOCAL INFILE 'ipps_2011_complete.csv'
 INTO TABLE ipps_2011
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
